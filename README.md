@@ -1,6 +1,6 @@
 # shristi-demo
 This is my first git repository.
 <br>
-Author - shristi vishwakarma
+Author - shristi vishwakarma(shris)
 <br>
 trying to learn something
